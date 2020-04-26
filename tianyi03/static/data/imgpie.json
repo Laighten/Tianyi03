@@ -1,0 +1,9 @@
+{
+    "PoliValue":335,
+    "DrugValue":210,
+    "ViolenceValue":234,
+    "PornValue":250,
+    "GamblingValue":157,
+    
+    "delta":[ null,0,0,0,-50,null,0]
+}

@@ -1,0 +1,9 @@
+{"videoKinds": [
+    {"value":235, "name":"涉政内容"},
+    {"value":210, "name":"涉黄内容"},
+    {"value":174, "name":"违禁logo"},
+    {"value":285, "name":"恐怖暴力"},
+    {"value":300, "name":"邪教信息"},
+    {"value":200, "name":"其他敏感"}],
+    "videoPercent":[{"value":254, "name":"敏感视频"},{"value":284, "name":"非敏感视频"}]
+}
